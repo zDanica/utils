@@ -1,11 +1,14 @@
-package com.opslab.web;
-
-import com.opslab.CharsetUtil;
-import junit.framework.TestCase;
-import org.junit.Test;
+package com.opslab.WEB;
 
 import java.io.UnsupportedEncodingException;
 import java.util.Map;
+
+import junit.framework.TestCase;
+
+import org.junit.Test;
+
+import com.opslab.CharsetUtil;
+import com.opslab.web.UrlUtil;
 
 
 public class UrlUtilTest extends TestCase {

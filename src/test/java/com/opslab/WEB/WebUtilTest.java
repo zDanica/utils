@@ -1,10 +1,10 @@
-package com.opslab.web;
-
-import com.opslab.CharsetUtil;
-import junit.framework.TestCase;
-import org.junit.Test;
+package com.opslab.WEB;
 
 import java.io.UnsupportedEncodingException;
+import junit.framework.TestCase;
+import org.junit.Test;
+import com.opslab.CharsetUtil;
+import com.opslab.web.WebUtil;
 
 
 public class WebUtilTest extends TestCase {
